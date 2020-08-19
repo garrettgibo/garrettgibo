@@ -1,10 +1,11 @@
 ## Hi There
 
-Welcome to me?!?
+> Our earth is only one polka dot among a million stars in the cosmos.
+>
+> -- <cite>Yayoi Kusama</cite>
 
-## Things I Do
+## Things I Like
 
-- Python
 - Machine Learning
 - Computer Vision
 - Design
@@ -24,14 +25,25 @@ Welcome to me?!?
 ## But Who Am I?
 
 ```Python
-someone
+class Bio:
+  name   = "Garrett Gibo"
+  school = "Univeristy of California, San Diego"
+  major  = "Data Science"
+
+class Favorite:
+  tv_show = "Bojack Horseman"
+  anime   = "One Piece"
+  music   = "https://sptfy.com/dv2y"
 ```
 
-## Current Works
+## Latest Works
 
 - I'm currently a Software Lead for [TritonUAS](https://tuas.ucsd.edu), a
   interdisciplinary project team at UCSD. I design, build, and test the
-  necessary frameworks to complete a variety of computer vision and path
-  planning tasks for the [AUVSI SUAS](https://www.auvsi-suas.org/competitions)
-  annual competition.
-- also do some other stuff
+  necessary frameworks to complete a variety of machine learning, computer 
+  vision, and path planning tasks for the 
+  [AUVSI SUAS](https://www.auvsi-suas.org/competitions) annual competition.
+- I'm also a member of the Artemis LEAPFROG project developed by the Space
+  Engineering Research Center at USC and NASA's project Artemis. For this
+  project I utilized ROS2, Gazebo, and PX4 to create a custom flight controller
+  and simulation to test a prototype lunar lander.
