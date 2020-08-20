@@ -43,7 +43,7 @@ class Favorite:
   necessary frameworks to complete a variety of machine learning, computer 
   vision, and path planning tasks for the 
   [AUVSI SUAS](https://www.auvsi-suas.org/competitions) annual competition.
-- I'm also a member of the Artemis LEAPFROG project developed by the Space
-  Engineering Research Center at USC and NASA's project Artemis. For this
-  project I utilized ROS2, Gazebo, and PX4 to create a custom flight controller
-  and simulation to test a prototype lunar lander.
+- I'm also a member of the Artemis [LEAPFROG project](https://github.com/antarikshnarain/ArtemisLeapFrog) 
+  developed by the Space Engineering Research Center at USC and NASA's project 
+  Artemis. For this project I utilize ROS2, Gazebo, and PX4 to create a custom 
+  flight controller and simulation to test a prototype lunar lander.
