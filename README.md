@@ -8,7 +8,7 @@
 
 - Machine Learning
 - Computer Vision
-- Design
+- Robotics
 
 ## Languages I Use
 
