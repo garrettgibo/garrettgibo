@@ -10,13 +10,11 @@
 ```Python
 class Bio:
   name     = "Garrett Gibo"
-  company  = "Johnson & Johnson"
-  position = "Software Engineer"
 
 class Favorite:
   tv_show = "Bojack Horseman"
   anime   = "One Piece"
-  music   = "https://sptfy.com/dv2y"
+  music   = "https://open.spotify.com/user/31fio5yidti3svjqkvtecirof4ga"
 ```
 
 ## Things I Like
